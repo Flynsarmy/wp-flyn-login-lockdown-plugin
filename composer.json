@@ -1,0 +1,16 @@
+{
+    "name": "flynsarmy/flyn-login-lockdown",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "flynsarmy",
+            "email": "flynsarmy@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FLL\\": "FLL/"
+        }
+    }
+}
